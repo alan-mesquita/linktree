@@ -1,0 +1,41 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+
+    --background-light: linear-gradient(43deg, rgba(251,147,43,1) 10%, rgba(255,114,49,1) 55%, rgba(251,215,28,1) 90%);
+    --background-night: linear-gradient(43deg, rgba(13,33,73,1) 10%, rgba(108,35,191,1) 55%, rgba(77,11,112,1) 90%);
+    --background-light-hover: linear-gradient(43deg, rgba(255,167,43,1) 10%, rgba(255,134,49,1) 55%, rgba(255,235,28,1) 90%);
+    --background-night-hover: linear-gradient(43deg, rgba(13,33,123,1) 10%, rgba(108,35,231,1) 55%, rgba(77,11,162,1) 90%);
+}
+
+h1{
+    margin:6px;
+}
+
+p{
+    margin: 5px 0px 16px 0px;
+
+}
+
+@media (max-width:600px){
+    h1{
+        font-size: 30px;
+    }
+
+    p{
+        font-size: 15px;
+    }
+    .profile{
+        width: 150px;
+        height: 150px;
+    }
+    .container a{
+        width: 50%;
+    }
+}
