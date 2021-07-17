@@ -23,6 +23,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Um LinkTree, ferramenta que disponibiliza para seus usuários uma página com todas as suas informações para serem compartilhadas com uma funcionalidade de modo claro e escuro adicionadas.
 
 ## 🔖 Layout
+<div align="center" >
+  <img  src="assets/image/gifs-to-readme/modosLight&Night.gif" alt="Gif modos light e night"> <br>
+  <img src="assets/image/gifs-to-readme/hoverLight.gif" alt="Gif modos light e night"> <br>
+  <img src="assets/image/gifs-to-readme/hoverNight.gif" alt="Gif modos light e night">
+</div>
 
 ## Versão Web:
 
